@@ -5,6 +5,7 @@
 - typescript
 - eslint
 - prettier
-- gh-pages
 - react
 - clsx
+- esbuild
+- gh-pages
