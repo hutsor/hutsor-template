@@ -1,5 +1,10 @@
-# 헛소리 제조기
+# 헛솔 템플릿
 
-https://hutsor.github.io/hutsori
+사용한 라이브러리:
 
-헛소리를 만듭니다. 네.
+- typescript
+- eslint
+- prettier
+- gh-pages
+- react
+- clsx
