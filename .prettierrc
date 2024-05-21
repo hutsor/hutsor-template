@@ -2,5 +2,11 @@
   "semi": true,
   "trailingComma": "all",
   "singleQuote": false,
-  "printWidth": 80
+  "printWidth": 80,
+  "overrides": [
+    {
+      "files": ["**/.eslintrc", "**/tsconfig.json"],
+      "options": { "parser": "json" }
+    }
+  ]
 }
